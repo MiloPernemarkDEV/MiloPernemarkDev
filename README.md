@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milo</h1>
 <h3 align="center">A passionate Game Developer from Stockholm</h3>
 
-- 🔭 I’m currently working on **USS-Calliope [ARPG Game]**
+- 🔭 I’m currently working on an **ARPG Game called USS-Calliope **
 
 - 🌱 I’m currently learning **Agile Development in Unity**
 
