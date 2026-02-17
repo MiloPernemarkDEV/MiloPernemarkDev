@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Milo</h1>
 <h3 align="center">A passionate Game Developer from Stockholm</h3>
 
-- 🔭 I’m currently working on **USS-Calliope ARPG Game**
+- 🔭 I’m currently working on **Vulkan rendering engine**
 
-- 🌱 I’m currently learning **Agile Development in Unity**
+- 🌱 I’m currently learning **the Vulkan graphics API**
 
 - 📫 How to reach me **milosnya@gmail.com**
 
