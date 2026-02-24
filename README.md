@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Design patterns through my game programming school Forsbergs**
 
-- 💬 Ask me about **Game programming, Vulkan**
+- 💬 Ask me about **Game programming, the Vulkan graphics API**
 
 - 📫 How to reach me **milosnya@gmail.com**
 
