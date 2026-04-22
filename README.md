@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milo Fransisco Carl Pernemark</h1>
 <h3 align="center">A passionate game programmer from Sweden</h3>
 
-- 🔭 I’m currently working on [A game engine in C++ and Vulkan](https://github.com/MiloPernemarkDEV/Helicon-Engine)
+- 🔭 I’m currently working on [A game engine in C++ and Vulkan](https://github.com/MiloPernemarkDEV/Eclips)
 
 - 🌱 I’m currently learning **Design patterns through my game programming school Forsbergs**
 
