@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Milo</h1>
+<h1 align="center">Hi 👋, I'm Milo Pernemark</h1>
 <h3 align="center">A passionate game programmer from Sweden</h3>
 
 - 🌱 I’m currently learning **3D Environment Art with 3ds Max and Unreal Engine**
