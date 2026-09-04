@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milo Pernemark</h1>
 <h3 align="center">A passionate game programmer from Sweden</h3>
 
-- 🌱 I’m currently learning **3D Environment Art with 3ds Max and Unreal Engine**
+- 🌱 I’m currently learning **custom ai systems for Unity**
 
 - 👨‍💻 All of my projects are available at [https://milopernemarkdev.github.io/Portfolio/](https://milopernemarkdev.github.io/Portfolio/)
 
