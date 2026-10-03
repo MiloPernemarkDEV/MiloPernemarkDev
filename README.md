@@ -22,7 +22,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="30" alt="opengl logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Vulkan_logo.svg" height="30" alt="vulkan logo" />  <img width="12" />
+  <img src="https://jsdelivr.net" height="30" alt="vulkan logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
@@ -37,7 +38,7 @@
 ###
 
 <div data-importer="socials" align="left">
-  <a href="nkedin.com/in/milo-pernemark-a78235274/" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
