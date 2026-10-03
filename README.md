@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://milopernemarkdev.github.io/Portfolio/" target="_blank">
-    <img src="" height="35" alt="portfolio" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=222222&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
   </a>
 </div>
 
