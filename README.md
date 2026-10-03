@@ -8,38 +8,38 @@
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://jsdelivr.net" height="30" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://jsdelivr.net" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://jsdelivr.net" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://jsdelivr.net" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://jsdelivr.net" height="30" alt="unity logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
   <img width="12" />
-  <img src="https://jsdelivr.net" height="30" alt="unrealengine logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
   <img width="12" />
-  <img src="https://jsdelivr.net" height="30" alt="opengl logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="30" alt="opengl logo"  />
   <img width="12" />
-  <img src="https://shields.io" height="30" alt="vulkan logo" />
+  <img src="https://cdn.simpleicons.org/vulkan/A41E22" height="30" alt="vulkan logo" />
   <img width="12" />
-  <img src="https://jsdelivr.net" height="30" alt="cmake logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
   <img width="12" />
-  <img src="https://jsdelivr.net" height="30" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://jsdelivr.net" height="30" alt="trello logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
   <img width="12" />
-  <img src="https://jsdelivr.net" height="30" alt="rider logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="30" alt="rider logo"  />
   <img width="12" />
-  <img src="https://jsdelivr.net" height="30" alt="clion logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="30" alt="clion logo"  />
 </div>
 
 ###
 
 <div data-importer="socials" align="left">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -47,10 +47,10 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://githubusercontent.com" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/MiloPernemarkDEV/MiloPernemarkDEV/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
-<p data-importer="text" align="center">https://github.io</p>
+<p data-importer="text" align="center">https://milopernemarkdev.github.io/Portfolio/</p>
 
 ###
