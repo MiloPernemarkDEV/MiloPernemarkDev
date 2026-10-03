@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="30" alt="opengl logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Vulkan_API_logo.svg" height="30" alt="vulkan logo"  />
+  <img src="https://raw.githubusercontent.com/KhronosGroup/Vulkan-Docs/main/images/vulkan.svg" height="30" alt="vulkan logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
   <img width="12" />
