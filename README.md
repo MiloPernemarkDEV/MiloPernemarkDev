@@ -25,7 +25,6 @@
   <img src="https://cdn.simpleicons.org/vulkan/A41E22" height="30" alt="vulkan logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
-  <img width="12" />
 </div>
 
 ###
@@ -38,5 +37,11 @@
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/MiloPernemarkDEV/MiloPernemarkDEV/snake-output/snake.svg" alt="Snake animation" />
 
 ###
